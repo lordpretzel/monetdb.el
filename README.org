@@ -1,1 +1,3 @@
 #+TITLE: MonetDB backend to Emacs SQL mode
+
+Forked from [https://gitlab.com/dickoa/emacs-monetdb/](https://gitlab.com/dickoa/emacs-monetdb/) to add package description for installation with =quelpa=

@@ -1,3 +1,18 @@
+;;; monetdb.el --- Monetdb backend for Emacs SQL mode -*- lexical-binding: t -*-
+
+;; Author: Ahmadou Dicko
+;; Maintainer: Ahmadou Dicko
+;; Version: version
+;; Package-Requires: ()
+;; Homepage: https://gitlab.com/dickoa/emacs-monetdb/
+;; Keywords: sql
+
+
+;;; Commentary:
+
+;;
+
+;;; Code:
 (require 'sql)
 (require 'sql-indent)
 
@@ -184,4 +199,3 @@ you define your own `sql-mode-monetdb-font-lock-keywords'.")
 
 (provide 'monetdb)
 ;;; End of monetdb.el
-
